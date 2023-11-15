@@ -6,7 +6,7 @@ on:
   schedule:
     # if you want to define your own build trigger schedule, just change the cron schedule value below
     # use https://crontab.guru/ if you are having some difficulties on how to define the cron values
-    - cron: '0 */4 * * *'
+    - cron: '0 */2 * * *'
 jobs:
   build:
     name: Netlify build
