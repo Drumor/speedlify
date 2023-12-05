@@ -6,5 +6,6 @@ module.exports = {
     },
     urls: [
         "https://www.lolaliza.com/",
+	"https://development.lolaliza.com"
     ]
 };
